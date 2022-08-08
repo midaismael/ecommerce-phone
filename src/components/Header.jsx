@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
+import Login from "./buttons/Login";
 const Header = () => {
     return (
         <>
@@ -27,6 +27,7 @@ const Header = () => {
                         </ul>
                     </div>
                     <NavLink className="navbar-brand mx-auto fw-bold" to="#">APPLE MART</NavLink>
+                    <Login/>
                 </div>
             </nav>
         </>
