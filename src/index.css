@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 code {
@@ -17,4 +18,13 @@ code {
 }
 .navbar-brand{
   letter-spacing: 3px;
+}
+
+/* Card */
+.card{
+  transition: all 0.5s ease;
+}
+.card:hover{
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0 ,0 ,0 ,0.5);
 }
