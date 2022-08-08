@@ -3,6 +3,7 @@ import img1 from '../assets/home/img1.jpg';
 import img2 from '../assets/home/img2.jpg';
 import img3 from '../assets/home/img3.jpg';
 import img4 from '../assets/home/img4.jpg';
+import Product from './Product';
 
 const Home = () => {
     return (
@@ -37,6 +38,7 @@ const Home = () => {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
+            <Product/>
         </div>
     )
 }

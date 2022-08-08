@@ -6,6 +6,7 @@ import About from './components/About';
 import Product from './components/Product';
 import Contact from './components/Contact';
 import {Routes, Route, Navigate} from 'react-router-dom'; 
+import ProductDetail from './components/ProductDetail';
 
 function App() {
   return (
@@ -14,9 +15,9 @@ function App() {
     <Routes>
     <Route exact path="/" element={<Home/>} />
     <Route exact path="/Products" element={<Product/>} />
+    <Route exact path="/Products/:id" element={<ProductDetail/>} />
     <Route exact path="/about" element={<About/>} />
     <Route exact path="/contact" element={<Contact/>} />
-    <Route exact path="/Products" element={<Product/>} />
     <Route exact path="/" element={<Navigate replace to="/home"/>} />
     </Routes>
     <Footer />
