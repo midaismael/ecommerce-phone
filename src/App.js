@@ -7,6 +7,8 @@ import Product from './components/Product';
 import Contact from './components/Contact';
 import {Routes, Route, Navigate} from 'react-router-dom'; 
 import ProductDetail from './components/ProductDetail';
+import Cart from './components/Cart';
+import Checkout from './components/Checkout' 
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
     <Route exact path="/" element={<Home/>} />
     <Route exact path="/Products" element={<Product/>} />
     <Route exact path="/Products/:id" element={<ProductDetail/>} />
+    <Route exact path="/cart" element={<Cart/>} />
+    <Route exact path="/checkout" element={<Checkout/>} />
     <Route exact path="/about" element={<About/>} />
     <Route exact path="/contact" element={<Contact/>} />
     <Route exact path="/" element={<Navigate replace to="/home"/>} />
