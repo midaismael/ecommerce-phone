@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ecommerce-phone/static/css/main.8d031d96.css",
+    "main.js": "/ecommerce-phone/static/js/main.49a691c1.js",
+    "static/js/787.a17c3e9f.chunk.js": "/ecommerce-phone/static/js/787.a17c3e9f.chunk.js",
+    "static/media/img2.jpg": "/ecommerce-phone/static/media/img2.08c129cada6348074e3e.jpg",
+    "static/media/img4.jpg": "/ecommerce-phone/static/media/img4.80fa1e526d76373a2f47.jpg",
+    "static/media/img3.jpg": "/ecommerce-phone/static/media/img3.a2ce3e7ed4a65c45d557.jpg",
+    "static/media/img1.jpg": "/ecommerce-phone/static/media/img1.aff43e06b85a6d64ae09.jpg",
+    "static/media/iphone12pro.png": "/ecommerce-phone/static/media/iphone12pro.a0eca97b2d0615c787db.png",
+    "static/media/iphoneSE.png": "/ecommerce-phone/static/media/iphoneSE.a095570a6410d27761f3.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommerce-phone/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/iphone11.png": "/ecommerce-phone/static/media/iphone11.8a317cd10597763ccbf2.png",
+    "static/media/iphone12.png": "/ecommerce-phone/static/media/iphone12.e9f1772f910bf5ec67f2.png",
+    "static/media/contact.png": "/ecommerce-phone/static/media/contact.96c63c3c1d7b93fc0aec.png",
+    "static/media/iphone12mini.png": "/ecommerce-phone/static/media/iphone12mini.bf22328378d81213bfa1.png",
+    "static/media/about.png": "/ecommerce-phone/static/media/about.089f3557ff463d2cf78d.png",
+    "static/media/iphone11promax.png": "/ecommerce-phone/static/media/iphone11promax.5ee7c0bb8f4069cd825a.png",
+    "static/media/fontawesome-webfont.eot": "/ecommerce-phone/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommerce-phone/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommerce-phone/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommerce-phone/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/ecommerce-phone/index.html",
+    "main.8d031d96.css.map": "/ecommerce-phone/static/css/main.8d031d96.css.map",
+    "main.49a691c1.js.map": "/ecommerce-phone/static/js/main.49a691c1.js.map",
+    "787.a17c3e9f.chunk.js.map": "/ecommerce-phone/static/js/787.a17c3e9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d031d96.css",
+    "static/js/main.49a691c1.js"
+  ]
+}
